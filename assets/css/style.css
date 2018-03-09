@@ -95,11 +95,8 @@ button{
     font-size:16px;
 }
 .content .portfolio-content{
-    border-color: #dddddd;
-    background-color: #ffffff;
     display:inline-block;
     position:relative;
-
 }
 .portfolio-content img{
     display:block;
@@ -109,7 +106,7 @@ button{
     width:83%; height:10%;
     font-size: 20px; 
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: #4aaaa5;
+    background-color:#4aaaa5;
     color:#ffffff;
     position:absolute; top:65%;left:4%;
     z-index:1;
